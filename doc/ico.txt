@@ -1,0 +1,4 @@
+spider.rc
+IDI_ICON1               ICON    DISCARDABLE     "spider.ico"
+
+RC_FILE = spider.rc
